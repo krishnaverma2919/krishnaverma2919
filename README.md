@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Verma</h1>
-<h3 align="center">🌱 I’m currently learning Data Analysis</h3>
+<h3 align="center">🌱 I’m  Data Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaverma&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaverma" /> </p>
 
